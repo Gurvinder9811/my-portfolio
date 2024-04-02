@@ -1,0 +1,34 @@
+[
+  {
+    "title": "THE VIBE ILETS",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for an educational institute as their portfolio.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Smart Virtual Assistant",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to act as a bridge between user and the operating system.",
+    "skills": ["Python","MySql","ML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "JavaScript","CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Beyond the Eye",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for the user who have keen interest in astronomy .",
+    "skills": ["HTML", "JavaScript","CSS", "MySql"],
+    
+    "source": "https://www.github.com"
+  }
+]

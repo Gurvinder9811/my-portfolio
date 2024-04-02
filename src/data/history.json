@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "Internship Studio",
+    "startDate": "June, 2022",
+    "endDate": "August 2022",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Data Engineer",
+    "organisation": "Internshala",
+    "startDate": "May, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on PQqt", "Designed a game"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
